@@ -1,0 +1,6 @@
+names:
+- space ship
+nc: 1
+test: /kaggle/input/posebowl/spaceship/images/test
+train: /kaggle/input/posebowl/spaceship/images/train
+val: /kaggle/input/posebowl/spaceship/images/val

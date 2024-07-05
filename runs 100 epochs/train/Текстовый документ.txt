@@ -1,0 +1,1 @@
+source /myenv/danik_venv/bin/activate

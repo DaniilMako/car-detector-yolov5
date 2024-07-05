@@ -1,0 +1,5 @@
+names:
+- vehicle
+nc: 1
+train: Object-Detection-3/train/images
+val: Object-Detection-3/valid/images
